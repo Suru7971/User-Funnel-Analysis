@@ -163,7 +163,7 @@ Funnel Leakage % =
 
 ## 📈 Dashboard Screenshot
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 ---
 
